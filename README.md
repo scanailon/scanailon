@@ -2,7 +2,7 @@
 
 👀 Estoy interesado en el desarrollo de software, con un enfoque especial en lenguajes como Java, Python, JavaScript, HTML, y en frameworks y tecnologías como Django, React, Node.js y bases de datos como PostgreSQL.
 
-🌱 Actualmente estoy profundizando mis conocimientos en React y Node.js.
+🌱 Actualmente estoy profundizando mis conocimientos en React, Node.js y AWS.
 
 💞️ Busco colaborar en proyectos innovadores que utilicen estas tecnologías. Estoy especialmente interesado en contribuir a proyectos de código abierto que se centren en el desarrollo web, aplicaciones empresariales y soluciones de software.
 
