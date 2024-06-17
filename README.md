@@ -5,7 +5,7 @@
 🌱 Actualmente estoy profundizando mis conocimientos en React, Node.js y AWS.
 
 
-📫 Mi correo eléctronico es forttdash@gmail.com.
+📫 Mi correo eléctronico es danilo.campos.pizarro@gmail.com.
 
 <!---
 scanailon/scanailon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
