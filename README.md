@@ -2,7 +2,7 @@
 
 # ¡Hola! 👋 Soy [Danilo Campos]
 
-Desarrollador Full Stack apasionado por crear soluciones innovadoras y escalables. Me especializo en arquitecturas modernas de JavaScript y disfruto construyendo experiencias web excepcionales que impactan positivamente a los usuarios.
+Desarrollador Full Stack apasionado por crear soluciones innovadoras y escalables. Me especializo en arquitecturas modernas de JavaScript y disfruto construyendo APP Web que aporten en mi experiencia como profesional.
 
 ## 🚀 Stack Tecnológico
 
