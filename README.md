@@ -36,7 +36,5 @@ Desarrollador Full Stack apasionado por crear soluciones innovadoras y escalable
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuusuario&color=blueviolet" alt="Profile views" />
-  
   ¿Interesado en colaborar? ¡Envíame un [email](mailto:danilo.campos.pizarro@gmail.com)!
 </div>
