@@ -15,6 +15,18 @@ Desarrollador Full Stack apasionado por crear soluciones innovadoras y escalable
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 💪 Nivel de Experiencia
+
+```text
+React       ███████████████████░░   90%
+Node.js     ██████████████████░░░   85%
+Next.js     ████████████████░░░░░   75%
+PostgreSQL  ███████████████░░░░░░   70%
+JavaScript  ██████████████████░░░   85%
+TypeScript  ████████████████░░░░░   75%
+Python      ████████████░░░░░░░░░   55%
+```
+
 
 ## 🌱 Actualmente Aprendiendo
 
